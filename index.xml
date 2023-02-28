@@ -12,7 +12,7 @@
 ]]></description>
       </metadata>
       <version name="1.0" author="mpasserini" time="2022-02-28T21:00:00Z">
-        <source main="main">https://github.com/cfillion/reapack-repository-template/raw/58a3e39ba95bd0f35846aa1f39aa4cb2574295e1/Example/cfillion_Hello%20world.lua</source>
+        <source main="main">https://raw.githubusercontent.com/mpasserini/REAPER-ReaScripts/master/MIDI/mpasserini_MIDI_looping_step_velocity.eel</source>
       </version>
     </reapack>
   </category>
