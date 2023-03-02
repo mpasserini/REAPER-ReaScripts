@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="Marco Passerini scripts" commit="58a3e39ba95bd0f35846aa1f39aa4cb2574295e1">
+<index version="1" name="Marco Passerini scripts" commit="2d0daf77a07fad3503c353ef7a8bc42ded6e345d">
   <category name="MIDI">
     <reapack name="mpasserini_MIDI_looping_step_velocity.eel" type="script" desc="MIDI looping step velocity">
-      <metadata>
-        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
-{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
-\widowctrl\hyphauto
-
-{\pard \ql \f0 \sa180 \li0 \fi0 This script can be used to set velocities on midi notes in a interative way, based on step division\par}
-}
-]]></description>
-      </metadata>
       <version name="1.0" author="mpasserini" time="2022-02-28T21:00:00Z">
         <source main="main">https://raw.githubusercontent.com/mpasserini/REAPER-ReaScripts/master/MIDI/mpasserini_MIDI_looping_step_velocity.eel</source>
       </version>
@@ -21,7 +12,14 @@
 {\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
 \widowctrl\hyphauto
 
-{\pard \ql \f0 \sa180 \li0 \fi0 \b \fs36 Marco Passerini's scripts for Reaper\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \b \fs36 mpasserini's REAPER-ReaScripts\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 {\field{\*\fldinst{HYPERLINK "https://www.reaper.fm/sdk/reascript/reascript.php"}}{\fldrslt{\ul
+ReaScripts
+}}}
+ for {\field{\*\fldinst{HYPERLINK "https://www.reaper.fm/"}}{\fldrslt{\ul
+Reaper
+}}}
+.\par}
 }
 ]]></description>
   </metadata>
